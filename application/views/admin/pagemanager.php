@@ -1,0 +1,2 @@
+PageManager
+<?php echo $msg;?>
